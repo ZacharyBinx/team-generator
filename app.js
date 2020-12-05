@@ -13,8 +13,8 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 const render = require("./lib/htmlRenderer");
 
 const people = [];
-async function init() {
-    const person = await inquirer.prompt();
+async function init(question) {
+    const person = await inquirer.prompt(question);
     const newEmp = makeEmployee(person);
     people.push(newEmp);
     if (person.another) init(questions);
