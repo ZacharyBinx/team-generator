@@ -26,7 +26,7 @@ Any useful information needed for additional employee classes are welcome to thi
 
 ## Check It Out!
 
-Simple to use! Make sure you install inquirer then you should be greeted with questions before it generates your Team Profile! Click [here]()
+Simple to use! Make sure you install inquirer then you should be greeted with questions before it generates your Team Profile! Click [here](https://youtu.be/Ar9UKK9pF98)
 
 ## License
 
